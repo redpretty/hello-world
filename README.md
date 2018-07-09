@@ -1,3 +1,6 @@
 # hello-world
 just a test
-hello,ni hao
+
+hi redpretty
+
+welcome
